@@ -6,7 +6,7 @@
 
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/vinay-kumar-d-951b22225">
+  <a href="https://linkedin.com/in/vinay-kumar-d-951b22225">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-twitter-URL">
@@ -57,7 +57,7 @@ I am a Computer Science Engineering Student<img src="https://media.giphy.com/med
 
 - :zap: In my free time, I solve problems on GeeksforGeeks, Leetcode and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vinay_Kumar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/vinay-kumar-d-951b22225)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vinay_Kumar-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/vinay-kumar-d-951b22225)
 
 
 ---
