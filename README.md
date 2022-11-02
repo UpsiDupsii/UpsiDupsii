@@ -62,4 +62,6 @@ I am a Computer Science Engineering Student<img src="https://media.giphy.com/med
 </div>
 
 ---
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UpsiDupsii&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
