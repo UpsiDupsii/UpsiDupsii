@@ -47,9 +47,9 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Computer Science Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m learniing MERN Stack, Data Science and contributing to frontend and backend for building web applications.
+- :telescope: I’m learning MERN Stack, Data Science and mostly contributing to backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
@@ -58,3 +58,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vinay_Kumar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/vinay-kumar-d-951b22225)
 
 
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UpsiDupsii&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
