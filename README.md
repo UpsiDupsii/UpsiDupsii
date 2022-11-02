@@ -17,9 +17,11 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=your-github-UpsiDupsii&style=flat-square&color=blue" alt=""/>
+  
 </div>
 
 <div align="center">
+  
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"    height="40"/>&nbsp;
@@ -34,8 +36,8 @@
 
 
 <h1 align="center">
-  Hey there...
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30px"/>
+  hey there...
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 
@@ -47,7 +49,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Computer Science Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Computer Science Engineering Student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :telescope: I’m learning MERN Stack, Data Science and mostly contributing to backend for building web applications.
 
