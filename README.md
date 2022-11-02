@@ -42,7 +42,7 @@ I am a Computer Science Engineering Student<img src="https://media.giphy.com/med
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks, Leetcode and read tech articles.
+- :zap: In my free time, I solve problems on HackerRank, Leetcode and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vinay_Kumar-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/vinay-kumar-d-951b22225)
 
