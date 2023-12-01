@@ -38,7 +38,7 @@
 ### :man_technologist: About Me :
 I am a Computer Science Engineering Student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m learning MERN Stack, Data Science and mostly contributing to backend for building web applications.
+- :telescope: I’m working as a Python Full Stack Web Developer, learning Data Science and mostly contributing to backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
