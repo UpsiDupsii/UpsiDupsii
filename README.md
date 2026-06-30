@@ -1,65 +1,174 @@
+```md
+<h1 align="center">Hi, I'm Vinay Kumar 👋</h1>
 
+<p align="center">
+Backend Engineer building scalable backend systems, browser automation infrastructure, and data platforms.
+</p>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250"/>
-</div>
-
-
-<div id="badges" align="center">
-  <a href="https://linkedin.com/in/vinay-kumar-d-951b22225">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-UpsiDupsii&style=flat-square&color=blue" alt=""/>  
-</div>
-
-
-
-
-<h1 align="center">
-  hey there...
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
+<p align="center">
+Python • Django • DRF • PostgreSQL • Redis • SeleniumBase • Docker
+</p>
 
 ---
 
-### :man_technologist: About Me :
-I am a Computer Science Engineering Student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+## About Me
 
-- :telescope: I’m working as a Python Full Stack Web Developer, learning Data Science and mostly contributing to backend for building web applications.
+Backend-focused engineer with 2+ years of experience building automation systems, scalable APIs, distributed browser infrastructure, and internal platforms.
 
-- :seedling: Exploring Technical Content Writing.
+My work primarily revolves around backend engineering, browser orchestration, automation pipelines, and building systems that scale reliably.
 
-- :zap: In my free time, I solve problems on HackerRank, Codechef and read tech articles.
+Currently working with:
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vinay_Kumar-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/vinay-kumar-d-951b22225)
+- Python
+- Django / Django REST Framework
+- PostgreSQL
+- Redis
+- SeleniumBase
+- Docker
+- Distributed backend systems
+
+Currently exploring:
+
+- System Design fundamentals
+- LLM application architecture
+- Vector databases
+- RAG (Retrieval-Augmented Generation)
+- Scalable backend design patterns
 
 ---
+
+## Featured Projects
+
+### isoAutomate | SaaS Browser Infrastructure Control Plane
+
+Repository:  
+**https://github.com/UpsiDupsii/isoAutomate-Webapp**
+
+Distributed browser automation platform built around a Django-based control plane with self-hosted execution nodes.
+
+Highlights:
+
+- Multi-tenant backend architecture
+- Authentication and orchestration workflows
+- Billing and execution management
+- Redis-based distributed task execution
+- Dockerized deployment architecture
+- Browser lifecycle management
+- SDK-oriented execution model
+
+Detailed architecture, setup, and implementation are documented inside the repository.
+
+---
+
+### isoFleet | Distributed Browser Execution Platform
+
+Repository:  
+**https://github.com/UpsiDupsii/isoAutomate-Browserpool**
+
+Execution infrastructure powering large-scale browser automation workloads.
+
+Highlights:
+
+- Distributed browser workers
+- SeleniumBase automation engine
+- Queue-based execution architecture
+- Anti-bot browser management
+- Nuitka packaging for deployment
+- Horizontal scaling support
+
+Complete technical documentation and setup instructions are available inside the repository.
+
+---
+
+## Other Engineering Work
+
+### Search Data Aggregation Service for LLM Pipelines
+
+- Aggregated web, image, and news search data
+- Built APIs supporting AI/LLM workflows
+- Reduced response time from **20+ seconds → 1–2 seconds**
+- Designed horizontally scalable browser pool architecture
+- Worked with retrieval-oriented data pipelines
+
+---
+
+### Social Media Campaign Automation (IXFI)
+
+- Processed **500K+ follower records**
+- Automated account workflows
+- Designed custom pagination and data extraction pipelines
+- Improved scraping reliability and throughput
+
+---
+
+## Technical Interests
+
+- Backend Architecture
+- Distributed Systems
+- System Design
+- Browser Infrastructure
+- Automation Engineering
+- LLM Applications
+- Retrieval Systems (RAG)
+- Vector Search
+- API Platform Engineering
+
+---
+
+## Tech Stack
+
+### Languages
+
+`Python`
+`SQL`
+`JavaScript`
+
+### Backend
+
+`Django`
+`Django REST Framework`
+`REST APIs`
+
+### Databases & Infrastructure
+
+`PostgreSQL`
+`Redis`
+`SQLite`
+`Docker`
+`Linux`
+
+### Automation & Systems
+
+`SeleniumBase`
+`Distributed Systems`
+`Browser Automation`
+
+### Tools
+
+`Git`
+`Postman`
+`ORM`
+`Query Optimization`
+
+---
+
+## GitHub Stats
+
 <div align="center">
- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"    height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="ExpressJS"  alt="ExpressJS" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=UpsiDupsii&show_icons=true&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UpsiDupsii&layout=compact&hide_border=true"/>
+
 </div>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UpsiDupsii&layout=compact&theme=vision-friendly-dark)](https://github.com/UpsiDupsii?tab=repositories) 
+
+## Connect
+
+LinkedIn  
+https://linkedin.com/in/vinay-kumar-d-951b22225
+
+Email  
+vinay.f44@gmail.com
+```
