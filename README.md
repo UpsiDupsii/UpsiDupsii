@@ -153,13 +153,17 @@ Complete technical documentation and setup instructions are available inside the
 
 ## GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=UpsiDupsii&show_icons=true&theme=transparent"
+  />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=UpsiDupsii&show_icons=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UpsiDupsii&layout=compact&hide_border=true"/>
-
-</div>
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=UpsiDupsii&layout=compact&theme=transparent"
+  />
+</p>
 
 ---
 
