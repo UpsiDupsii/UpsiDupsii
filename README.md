@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vinay Kumar 👋</h1>
 
 <p align="center">
-Backend Engineer building scalable backend systems, browser automation infrastructure, and data platforms.
+Backend Engineer focused on scalable backend systems, browser automation infrastructure, and automation platforms.
 </p>
 
 <p align="center">
@@ -12,11 +12,11 @@ Python • Django • DRF • PostgreSQL • Redis • SeleniumBase • Docker
 
 ## About Me
 
-Backend-focused engineer with 2+ years of experience building automation systems, scalable APIs, distributed browser infrastructure, and internal platforms.
+Backend-focused engineer with 2+ years of experience building scalable APIs, automation systems, distributed browser infrastructure, and internal platforms.
 
-My work primarily revolves around backend engineering, browser orchestration, automation pipelines, and building systems that scale reliably.
+My work primarily revolves around backend engineering, browser orchestration, automation pipelines, and designing systems that scale reliably.
 
-Currently working with:
+### Core Technologies
 
 - Python
 - Django / Django REST Framework
@@ -24,15 +24,14 @@ Currently working with:
 - Redis
 - SeleniumBase
 - Docker
-- Distributed backend systems
+- Distributed Backend Systems
 
-Currently exploring:
+### Currently Exploring
 
-- System Design fundamentals
-- LLM application architecture
-- Vector databases
-- RAG (Retrieval-Augmented Generation)
-- Scalable backend design patterns
+- System Design
+- LLM Application Architecture
+- Retrieval Systems (RAG)
+- Scalable Backend Patterns
 
 ---
 
@@ -40,7 +39,7 @@ Currently exploring:
 
 ### isoAutomate | SaaS Browser Infrastructure Control Plane
 
-Repository:  
+Repository  
 **https://github.com/UpsiDupsii/isoAutomate-Webapp**
 
 Distributed browser automation platform built around a Django-based control plane with self-hosted execution nodes.
@@ -61,7 +60,7 @@ Detailed architecture, setup, and implementation are documented inside the repos
 
 ### isoFleet | Distributed Browser Execution Platform
 
-Repository:  
+Repository  
 **https://github.com/UpsiDupsii/isoAutomate-Browserpool**
 
 Execution infrastructure powering large-scale browser automation workloads.
@@ -89,11 +88,9 @@ Complete technical documentation and setup instructions are available inside the
 - Designed horizontally scalable browser pool architecture
 - Worked with retrieval-oriented data pipelines
 
----
-
 ### Social Media Campaign Automation (IXFI)
 
-- Processed **500K+ follower records**
+- Processed **500K+ (Twitter/X) follower records and tweets**
 - Automated account workflows
 - Designed custom pagination and data extraction pipelines
 - Improved scraping reliability and throughput
@@ -109,8 +106,6 @@ Complete technical documentation and setup instructions are available inside the
 - Automation Engineering
 - LLM Applications
 - Retrieval Systems (RAG)
-- Vector Search
-- API Platform Engineering
 
 ---
 
@@ -128,11 +123,10 @@ Complete technical documentation and setup instructions are available inside the
 `Django REST Framework`
 `REST APIs`
 
-### Databases & Infrastructure
+### Infrastructure
 
 `PostgreSQL`
 `Redis`
-`SQLite`
 `Docker`
 `Linux`
 
@@ -151,23 +145,35 @@ Complete technical documentation and setup instructions are available inside the
 
 ---
 
-## GitHub Stats
+## GitHub Highlights
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=UpsiDupsii&show_icons=true&theme=transparent"
-  />
+<div align="center">
 
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=UpsiDupsii&layout=compact&theme=transparent"
-  />
-</p>
+[![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=UpsiDupsii&layout=compact)](https://github.com/UpsiDupsii?tab=repositories)
+
+</div>
+
+<br>
+
+<div align="center">
+
+### Featured Repositories
+
+[isoAutomate](https://github.com/UpsiDupsii/isoAutomate-Webapp)
+
+Distributed browser infrastructure • orchestration • execution management
+
+<br>
+
+[isoFleet](https://github.com/UpsiDupsii/isoAutomate-Browserpool)
+
+Distributed browser execution • browser workers • scaling
+
+</div>
 
 ---
 
-## Connect
+## Contact
 
 LinkedIn  
 https://linkedin.com/in/duluri
