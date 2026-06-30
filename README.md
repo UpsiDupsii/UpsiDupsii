@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi, I'm Vinay Kumar 👋</h1>
 
 <p align="center">
@@ -167,8 +166,7 @@ Complete technical documentation and setup instructions are available inside the
 ## Connect
 
 LinkedIn  
-https://linkedin.com/in/vinay-kumar-d-951b22225
+https://linkedin.com/in/duluri
 
 Email  
 vinay.f44@gmail.com
-```
